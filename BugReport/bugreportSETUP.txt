@@ -1,2 +1,0 @@
-1. To use this command code, you must use the command handler on CmHandler folder. Other than that, I can't guarantee that the code will work.
-2. Change the (CHANNEL_ID_FOR_REPORT_LOG) with your channel ID for the place where the report being sent to.
