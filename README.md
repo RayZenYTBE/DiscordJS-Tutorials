@@ -9,3 +9,8 @@ Go to one of the available command folder/file, and copy the entire code inside 
 
 # Add Folder
 Folder in this case is command folder category. Example: Moderation Commands folder, Fun Commands folder, Music Commands folder, etc. You can not just add new folder inside ./commands/ before "registering" the folder to the handler. How to add it? Easy, go to ./handler/command.js and edit the `[  "category"  ]` to your new folder name. Example: `[  "category", "moderation, "fun", "music", "etc"  ]` Make sure the file name is the same to what you will write in the ./handler/command.js file. Without writing the folder name in it, the folder and the file inside, won't work.
+
+# Episode
+1. Bug Report Command
+2. Translate Command
+3. Invite Command
