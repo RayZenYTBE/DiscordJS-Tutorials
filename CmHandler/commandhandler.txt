@@ -1,1 +1,4 @@
+DiscordJS-Base-Command-Handler
+
 Fork this repl => https://replit.com/@RayZenYTBE/DiscordJS-Base-Command-Handler
+Read the README.md file in this repo, and read the step-by-step on the SETUP.md inside the replit link.
