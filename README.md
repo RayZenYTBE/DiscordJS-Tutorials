@@ -14,3 +14,4 @@ Folder in this case is command folder category. Example: Moderation Commands fol
 1. Bug Report Command
 2. Translate Command
 3. Invite Command
+4. Trivia Command
