@@ -1,0 +1,2 @@
+1. Before you can start the repl, please install `@iamtraction/google-translate` by typing npm i @iamtraction/google-translate so the languages will be translated succesfuly.
+2. You can change the "en" with other language code using the ISO 639-1.
