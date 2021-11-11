@@ -1,0 +1,1 @@
+Fork this repl => https://replit.com/@RayZenYTBE/DiscordJS-Base-Command-Handler
