@@ -1,0 +1,28 @@
+WARNING!!!
+Before you read the tutorial, see your project already have a white page having this link => https://YourFileName.YourUserName.repl.co ? If your project did, skip step 1 - 4 on row 6 - 17 and navigate to step 5 - 9 on row 19 - 27
+WARNING!!!
+
+Tutorial :
+
+1.) Copy every single row on index.js file and paste it on your project's index.js file. Make sure that the script that you've been pasted before having a 1 row space, or the script will be mixed up and Node JS will think that it was one piece of script. Example :
+
+24/7 Script = require('example')
+})
+
+Your project script = require('example')
+
+2.) Now go to Package menu (3D Box Symbol on The Right Menu) and search for discord.js and click the "+" sign to install it. If discord.js already have been installed, then skip this step.
+
+3.) Now Run it. 
+
+4.) If a new white page appear and saying "Its Working! Copy this link above and navigate to uptimerobot.com!", it means that your repl is working succesfully!
+
+5.) Do what the page said! Copy the link, and go to uptimerobot.com! Do not close your project!
+
+6.) Login/Signup on uptimerobot before you can create a monitor.
+
+7.) Click "Create new Monitor".
+
+8.) Choose http(s). Name it and paste the code on http(s) value. You can click the checkbox next to your E-Mail address to allow Uptime Robot send you a warning or an alert mail if one of your monitor is having Down time. Its optional anyway.
+
+9.) Scroll down on that monitor. See it saying "No Data"? Refresh the page until it's showing "Up" with green color.
