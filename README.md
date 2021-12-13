@@ -11,7 +11,7 @@ To begin your Discord.JS journey, go to CmHandler file, and fork the replit link
 4. Trivia Command
 5. Multiple Sources Search Commands
 6. TicTacToe
-7. j
+7. Embed Command
 8. Make your bot running 24/7
 9. Custom Discord Bot Status
 
