@@ -10,6 +10,10 @@ To begin your Discord.JS journey, go to CmHandler file, and fork the replit link
 3. Invite Command
 4. Trivia Command
 5. Multiple Sources Search Commands
+6. TicTacToe
+7. j
+8. Make your bot running 24/7
+9. Custom Discord Bot Status
 
 # Warnings
 1. This commands code might only effective on this Discord.JS command handler type only. If you want to use it with your own C Handler, please use your own `module.exports` function, and copy paste **ONLY** the code below ```run: async(client, message, args) => {```. Not the entire code with the module.exports things.
